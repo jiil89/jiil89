@@ -1,0 +1,32 @@
+{
+  "date_kst": "YYYY-MM-DD",
+  "channel": "naver | google",
+  "title_candidates": ["", "", ""],
+  "title": "",
+  "reader_question": "",
+  "keywords": [],
+  "tags": [],
+  "meta_description": "",
+  "url_slug": "",
+  "category": "",
+  "internal_links": [],
+  "images": [
+    {
+      "file": "images/01-cover.png",
+      "position": "대표 이미지",
+      "caption": "",
+      "alt": "",
+      "ai_generated": false
+    }
+  ],
+  "sources": [
+    {
+      "title": "",
+      "url": "",
+      "date": "",
+      "supports": "",
+      "type": "사실 | 의견 | 추정"
+    }
+  ],
+  "status": "초안 완성 | 임시저장 | 예약 완료 | 발행 완료"
+}
